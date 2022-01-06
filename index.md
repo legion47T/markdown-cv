@@ -1,91 +1,63 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lebenslauf von Timo Schwarz
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+__`2022-01-06`__
+
+# Timo Schwarz
+Software-Entwickler
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="TimoSchwarz47@t-online.de">TimoSchwarz47@t-online.de</a>
+| <a href="https://www.xing.com/profile/Timo_Schwarz31"><i class="fab fa-xing-square"></i> Xing</a>
+| <a href="https://www.linkedin.com/in/timoschwarz/"><i class="fab fa-linkedin"></i> LinkedIn</a>
 </div>
 
 
-## Currently
+--------------------------------------------------------------------------------
 
-Standing on the shoulders of giants
+## Schule und Studium
 
-### Specialized in
+`2014 - 2017` __M.Sc. Informatik an der Technischen Universität Braunschweig__  
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+* Thema der Masterarbeit: _„Konzeptionierung und Umsetzung mehrschichtiger Connectivity
+Maps im Simulationsframework ArteryLTE“_, Note: _1,0_
+* Vertiefungsrichtung „Kommunikations-, Informations- und mobile verteilte Systeme“
+* Spezialisierung in Computernetzwerken und Computersicherheit
+* Gesamtnote: _1,5_  
+<br>
 
+`2010 - 2014` __B.Sc. Informatik an der Technischen Universität Braunschweig__  
 
-### Research interests
+* Thema der Bachelorarbeit: _„Konzepte zur intelligenten Steuerung der Energiesparfunktionen
+Windows-basierter Systeme“_, Note: _1,0_
+* Gesamtnote: _1,5_  
+<br>
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`2003 - 2010` __Abitur an der Neuen Oberschule Braunschweig__
 
+* Abschluss mit der Allgemeinen Hochschulreife 
+* Gesamtnote: _1,3_  
+<br>
 
-## Education
+--------------------------------------------------------------------------------
 
-`1654-1660`
-__The King's School, Grantham.__
+## Sprachen
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+* Deutsch (Muttersprache)  
+* Englisch (fließend)  
 
-- Sizar
+--------------------------------------------------------------------------------
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Sonstiges
 
-- Fellow
+Hobbies: Hifi-Audio 🎧, Computer-Hardware 
 
+Schwarzer Gurt im Shotokan Karate 🥋  
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+--------------------------------------------------------------------------------
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Zuletzt geändert: Januar 2022 -->
