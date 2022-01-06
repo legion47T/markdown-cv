@@ -52,7 +52,7 @@ Windows-basierter Systeme“_, Note: _1,0_
 
 ## Sonstiges
 
-Hobbies: Hifi-Audio 🎧, Computer-Hardware 
+Hobbies: Hifi-Audio 🎧, Computer-Hardware 💻👾
 
 Schwarzer Gurt im Shotokan Karate 🥋  
 
